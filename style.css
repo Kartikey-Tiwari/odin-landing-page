@@ -159,3 +159,39 @@ a {
 	font-size: 24px;
 	color: #1f2937;
 }
+
+/**********************action******************/
+.action {
+	padding: 100px 200px;
+}
+
+.action-area {
+	border-radius: 10px;
+	background-color: #3882f6;
+	color: white;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 50px 0;
+}
+
+.action-text h3 {
+	font-size: 24px;
+	font-weight: 800;
+	margin: 0;
+}
+
+.action-text p {
+	margin: 0;
+	font-size: 18px;
+}
+
+.action-area button {
+	padding: 8px 32px;
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #3882f6;
+	color: white;
+	border-radius: 10px;
+	border-color: white;
+}
