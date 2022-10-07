@@ -9,15 +9,12 @@ body {
 
 .hero-container {
 	display: flex;
-	align-items: center;
+	justify-content: center;
 	background-color: #1F2937;
-	flex-direction: column;
 	padding-bottom: 124px;
 }
 
 .hero {
-	display: flex;
-	flex-direction: column;
 	padding: 16px;
 }
 
@@ -74,7 +71,7 @@ a {
 .hero-main-text h1 {
 	font-size: 48px;
 	color: #F9FAF8;
-	font-weight: extra-bold;
+	font-weight: bold;
 	margin: 0;
 }
 
